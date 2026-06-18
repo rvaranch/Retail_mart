@@ -177,3 +177,7 @@ def delete_product(product_id: int):
 
     logger.info("Product deleted successfully id=%s", product_id)
     return {"message": "Product deleted successfully"}
+
+
+
+# New API added by Raghu
